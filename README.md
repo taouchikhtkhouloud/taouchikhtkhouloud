@@ -1,9 +1,9 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi , I'm Khouloud Taouchikht <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">👩🏻 I am a software engineering student.the kind that codes all day.🛠️</h3>
+<h3 align="center">👩🏻 I am a software engineer. the kind that codes all day.🛠️</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Competitive+Programmer;Web+Developer;web+designer;game+developer;UX/UI+Enthusiast;Open+Source+Lover;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer;Web+Developer;web+designer;game+developer;UX/UI+Enthusiast;Open+Source+Lover;Always+learning+new+things"></a>
 </p>
 
 
@@ -29,12 +29,12 @@
 
 <br><br>
 
-- :school: I am a `second year` `Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
+- :school: I am a `Software Engineer`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Leetcode`, `HackerRank`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Computer Science` and `AI Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `intern or job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1qbuMSz9PzRtU-55hMunvowo5r5BQNCKZ/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1qbuMSz9PzRtU-55hMunvowo5r5BQNCKZ/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://taouchikht-khouloud.vercel.app/).
 <br>
 
